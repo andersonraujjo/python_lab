@@ -1,0 +1,9 @@
+num = str(input('Digite um número de 0 a 9999: '))
+u = num[0]
+d = num[1] 
+c = num[2]
+m = num[3]
+print (f"""Unidade = {u}
+Dezena = {d}
+Centena = {c}
+Milhar = {m} """)
