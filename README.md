@@ -13,7 +13,7 @@ Como este é um registro do meu **começo na trilha de desenvolvimento**, é imp
 - **Estruturas Compostas:** Listas, Tuplas, Dicionários, Funções e Tratamento de Erros.
 
 ## 🛠️ Tecnologias Utilizadas
-- **Linguagem:** Python 3.x
+- **Linguagem:** Python 3.14.2
 - **Ambiente:** VS Code / Terminal
 - **Versionamento:** Git & GitHub
 
